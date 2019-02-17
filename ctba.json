@@ -1,0 +1,105 @@
+{
+    "by": "woeid",
+    "valid_key": false,
+    "results": {
+        "temp": 21,
+        "date": "17/02/2019",
+        "time": "15:36",
+        "condition_code": "47",
+        "description": "Tempestades isoladas",
+        "currently": "dia",
+        "cid": "",
+        "city": "Curitiba,",
+        "img_id": "47",
+        "humidity": "84",
+        "wind_speedy": "14 km/h",
+        "sunrise": "6:04 am",
+        "sunset": "6:58 pm",
+        "condition_slug": "storm",
+        "city_name": "Curitiba",
+        "forecast": [
+            {
+                "date": "17/02",
+                "weekday": "Dom",
+                "max": "22",
+                "min": "17",
+                "description": "Tempestades isoladas",
+                "condition": "storm"
+            },
+            {
+                "date": "18/02",
+                "weekday": "Seg",
+                "max": "25",
+                "min": "17",
+                "description": "Tempestades isoladas",
+                "condition": "storm"
+            },
+            {
+                "date": "19/02",
+                "weekday": "Ter",
+                "max": "24",
+                "min": "18",
+                "description": "Tempestades isoladas",
+                "condition": "storm"
+            },
+            {
+                "date": "20/02",
+                "weekday": "Qua",
+                "max": "25",
+                "min": "17",
+                "description": "Tempestades",
+                "condition": "storm"
+            },
+            {
+                "date": "21/02",
+                "weekday": "Qui",
+                "max": "25",
+                "min": "17",
+                "description": "Tempestades",
+                "condition": "storm"
+            },
+            {
+                "date": "22/02",
+                "weekday": "Sex",
+                "max": "26",
+                "min": "18",
+                "description": "Tempestades",
+                "condition": "storm"
+            },
+            {
+                "date": "23/02",
+                "weekday": "S�b",
+                "max": "27",
+                "min": "18",
+                "description": "Tempestades",
+                "condition": "storm"
+            },
+            {
+                "date": "24/02",
+                "weekday": "Dom",
+                "max": "28",
+                "min": "19",
+                "description": "Tempestades",
+                "condition": "storm"
+            },
+            {
+                "date": "25/02",
+                "weekday": "Seg",
+                "max": "28",
+                "min": "20",
+                "description": "Tempestades",
+                "condition": "storm"
+            },
+            {
+                "date": "26/02",
+                "weekday": "Ter",
+                "max": "26",
+                "min": "17",
+                "description": "Tempestades",
+                "condition": "storm"
+            }
+        ]
+    },
+    "execution_time": 0,
+    "from_cache": true
+}
