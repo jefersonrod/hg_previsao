@@ -21,6 +21,7 @@ print("Text : " + response.text)
 print("JSON : " + str(response.json))
 print("Python JSON : " + str(response.json()))
 
+datatxt = response.text
 data = response.json()
 #print(data['results']['forecast'][0])
 
@@ -54,6 +55,6 @@ for key, value in data.items():
 
 print ("---")
 
-#print(data)
-#f = open(filejson,"w")
-#f.write(str(data))
+print(datatxt)
+f = open(filejson,"w")
+f.write(str(datatxt))
